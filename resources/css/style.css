@@ -8,11 +8,6 @@ h1 {
   font-size: 70px;
 }
 
-.navigation {
-  font-size: 18px;
-  color: white;
-}
-
 .home {
   background-image: url('../../resources/images/the-flatiron-building.png');
   color: white;
@@ -34,7 +29,6 @@ a {
   color: white;
   font-size: 18px;
 }
-
 
 .design {
   background-image: url('../../resources/images/the-flatiron-building.png');
